@@ -52,9 +52,4 @@
 
 ---
 
-### 🐍 Snake Game
-
-<p align="center">
-  <img src="https://github.com/olvisking20/olvisking20/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
