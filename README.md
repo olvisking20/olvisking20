@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Olvis Perdomo Sanchez</h1>
+<p align="center">
+  🇩🇴 Desarrollador móvil de República Dominicana | 📱 Flutter & C# | 🌱 En constante aprendizaje
+</p>
 
-<!--
-**olvisking20/olvisking20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🧑‍💻 Soy desarrollador móvil con experiencia en **Flutter**, **Dart**, **C#**, y **Xamarin**.
+- 📲 Me apasiona crear apps funcionales, elegantes y optimizadas.
+- 🧠 Actualmente profundizando en temas como arquitectura limpia, estado avanzado y Firestore.
+- 📫 Contacto: **olvissanchez2024@gmail.com**
+- 🌐 [Portafolio Web](https://incomparable-swan-4e6810.netlify.app)
+- 🔗 [LinkedIn](https://linkedin.com/in/olvissanchez) &nbsp;|&nbsp; [GitHub](https://github.com/olvisking20)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olvisking20&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olvisking20&theme=radical" width="48%" />
+</div>
+
+---
+
+### 🧠 Lenguajes más usados
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olvisking20&layout=compact&theme=radical" width="50%" />
+</div>
+
+---
+
+### 🎯 En qué estoy trabajando ahora
+
+- Mejorando una **app de chat** con Firestore y manejo de estado
+- Explorando **notificaciones push** en Flutter
+- Aplicando **mejores prácticas** en diseño de UI y animaciones
+
+---
+
+### ❤️ Gracias por visitar mi perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olvisking20&style=flat-square&color=blue" alt="visitas" />
+</p>
