@@ -46,12 +46,6 @@
 
 ---
 
-### 🐍 Mi gráfica de contribuciones (Snake)
-
-![Snake animation](https://github.com/olvisking20/olvisking20/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🎯 En qué estoy trabajando ahora
 
 - Mejorando una **app de chat** con Firestore y manejo de estado
