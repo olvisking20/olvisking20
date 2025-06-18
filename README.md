@@ -51,10 +51,10 @@
 ### 💼 Proyectos Destacados
 
 #### 🪴 Tree Plant 
-E-commerce de plantas con carrito, login, integración con Firebase y diseño responsive.
+E-commerce de plantas con pago por tarjeta, login, y integración con Hive y Provider.
 
 #### 💬 ChatX App
-App de mensajería en tiempo real con Firestore, sistema de contactos, notificaciones y manejo local con Hive.
+App de mensajería en tiempo real con Firestore, sistema de contactos, y manejo local con Hive.
 
 #### 🎵 Music App
 Reproductor moderno con listas locales, controles desde la notificación, carátulas animadas y sonido suave.
