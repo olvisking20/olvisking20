@@ -14,7 +14,7 @@
 ### 🧾 Sobre mí
 
 - 🇩🇴 Desde República Dominicana  
-- 💼 Actualmente trabajando en **ChatX**, **Plant Shop**, **Music Vibes**  
+- 💼 Actualmente trabajando en **ChatX**, **Tree Plant**, **Music App**  
 - 🌱 Apasionado por aprender y crear en Flutter  
 - 🧠 Experiencia también en **C#** y **Xamarin**  
 - ✨ Me enfoco en buen diseño, rendimiento y experiencia de usuario
